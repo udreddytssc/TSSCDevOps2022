@@ -1,1 +1,5 @@
 print ("bye world")
+print ("bye world, temporary")
+print ("bye world again")
+print ("bye world")
+print ("bye world")
